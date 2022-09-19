@@ -27,5 +27,5 @@ we mix the terminologie so strange because most people come from a linux or wind
 
 at present the compiler has this output flavors 
 - graaljs graalvm-native-image, 
-- llvm (v8) justjs api, 
-- electron mksnapshot builds.
+- llvm (stealify/b8g), the LLVM Compiler Interface.
+- electron mksnapshot builds. will get replaced by b8g llvm builds. 
